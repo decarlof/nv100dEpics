@@ -3,4 +3,3 @@ include LICENSE
 global-exclude *.py[co]
 global-exclude *.i
 global-exclude *.cpp
-include simepics/data/*

@@ -1,0 +1,1 @@
+medm -x -macro "P=2bmb:,R=JenaNV100D:" ../../JenaNV100DApp/op/adl/JenaNV100D.adl &

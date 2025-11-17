@@ -1,0 +1,2 @@
+file "JenaNV100D.req", P=$(P), R=$(R)
+file "JenaNV100D_settings.req", P=$(P), R=$(R)

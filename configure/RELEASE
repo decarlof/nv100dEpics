@@ -21,14 +21,14 @@
 
 TEMPLATE_TOP=$(EPICS_BASE)/templates/makeBaseApp/top
 
-SUPPORT=/home/beams/DECARLO/epics/synApps/support
+SUPPORT=/home/beams/2BMB/epics-jena/synApps/support
 
 BUSY=$(SUPPORT)/busy-R1-7-4
 AUTOSAVE=$(SUPPORT)/autosave-R5-11
 ASYN=$(SUPPORT)/asyn-R4-44-2
 
 # EPICS_BASE usually appears last so other apps can override stuff:
-EPICS_BASE=/home/beams/DECARLO/epics/epics-base
+EPICS_BASE=/home/beams/2BMB/epics-jena/epics-base
 
 # Set RULES here if you want to take build rules from somewhere
 # other than EPICS_BASE:
